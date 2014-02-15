@@ -1,8 +1,8 @@
 Run:
 
 Note: for now just run inside this directory
-''' ./build javascriptSourcePath desiredReportPath  '''
 
+``` ./build javascriptSourcePath desiredReportPath  ```
 
 Tools:
 
