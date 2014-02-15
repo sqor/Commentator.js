@@ -3,6 +3,7 @@
 Static analysis tool for Javsacript comments. It gives states on comment density, and also code and comment parity for projects that use a specific commenting style.
 
 
+Here is an example of the HTML  graph generated:
 
 ![Commentator Screen Shot](https://raw.github.com/sqor/Commentator.js/master/commentator.png)
 
