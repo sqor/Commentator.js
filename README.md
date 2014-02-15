@@ -1,8 +1,7 @@
 Run:
 
-for now must run inside this directory:
-
-''' ./build javascriptSource desiredReportPath  '''
+Note: for now just run inside this directory
+''' ./build javascriptSourcePath desiredReportPath  '''
 
 
 Tools:
