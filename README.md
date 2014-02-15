@@ -2,15 +2,16 @@
 
 Static analysis tool for Javsacript comments. It gives states on comment density, and also code and comment parity for projects that use a specific commenting style.
 
-Run:
+
+
+### Run:
 
 Note: for now just run inside this directory
 
 ``` ./build javascriptSourcePath desiredReportPath  ```
 
-Tools:
 
-Dependencies:
+### Dependencies:
 
 espirma
 npm
@@ -31,13 +32,3 @@ Steps:
 - count comments from file
 
 
-
-Everything is found inside
-reports
-
-
-
--- 
-[ ] display TODOS
-[ ]  
- 
