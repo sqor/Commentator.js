@@ -4,6 +4,9 @@ Static analysis tool for Javsacript comments. It gives states on comment density
 
 
 
+![Commentator Screen Shot](https://github.com/sqor/Commentator.js/blob/master/commentator.png)
+
+
 ### Run:
 
 Note: for now just run inside this directory
