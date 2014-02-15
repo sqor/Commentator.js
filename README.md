@@ -1,3 +1,7 @@
+# Commentator.js
+
+Static analysis tool for Javsacript comments. It gives states on comment density, and also code and comment parity for projects that use a specific commenting style.
+
 Run:
 
 Note: for now just run inside this directory
